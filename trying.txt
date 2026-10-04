@@ -1,0 +1,6 @@
+$ Instructions for restaurant manager:
+
+
+$ to use this project we using local docker n8n container
+ and if needed there is option for free local llm through
+ docker.
